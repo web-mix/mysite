@@ -1,6 +1,6 @@
-# CASIO AI Chat  
+# Chat  
 ## TITLE
-Song Yuanのバイタルセンサ研究まとめ
+Song Yuanのレーダーセンサまとめ
 
 ## DATE
 Wed Jun 18 2025 10:30:08 GMT+0900 (日本標準時)  
